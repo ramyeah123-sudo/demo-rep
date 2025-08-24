@@ -3,6 +3,6 @@ Demo Repository
 
 Hello welcome
 <br>
-Author:Niharika
+Author:Niharika (Nihaari)
 <br>
 Test
